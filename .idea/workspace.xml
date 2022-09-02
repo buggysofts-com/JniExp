@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="535e43b6-9306-4b07-9b1a-a112cedd0138" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid6836.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid6959.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid8533.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid8598.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/com_buggysofts_jniexp_NoArgs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/com_buggysofts_jniexp_NoArgs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/com_buggysofts_jniexp_NoArgs.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/com_buggysofts_jniexp_ObjArgs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/com_buggysofts_jniexp_ObjArgs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/com_buggysofts_jniexp_ObjArgs.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/com_buggysofts_jniexp_TwoArgs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/com_buggysofts_jniexp_TwoArgs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/com_buggysofts_jniexp_TwoArgs.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/include" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buggysofts/jniexp/NativePassableObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buggysofts/jniexp/NoArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buggysofts/jniexp/ObjArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buggysofts/jniexp/TwoArgs.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EArlsf2dyYk0GaaC20O7GkcG6T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ragib/IdeaProjects/JNIExp/src/main/cpp&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/cpp" />
+      <recent name="$PROJECT_DIR$/src/main/c" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/buggysofts/jniexp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buggysofts.jniexp.Main" />
+      <module name="JNIExp.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buggysofts.jniexp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="535e43b6-9306-4b07-9b1a-a112cedd0138" name="Changes" comment="" />
+      <created>1662049384163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662049384163</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
